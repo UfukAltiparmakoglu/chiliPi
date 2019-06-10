@@ -1,6 +1,8 @@
 # chiliPi
 DIY: Watch your chili plant grow.
 
+![RPI final video](/gif/chiliPi.gif)
+
 ## Prerequisites
 
 What you'll need:
@@ -46,7 +48,7 @@ What you'll need:
 
     ![RPI collected images](/img/chiliPi_images.png)
 
-7.  Now let's make a video of it:
+7.  Let's make a video of it:
 
     Run the python script **chiliPi_scanner.py** like so:
     > python3 chiliPi_scanner.py
